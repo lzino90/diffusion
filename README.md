@@ -29,4 +29,4 @@ The file "summary_data.pdf" contains a summary of the experimental data
 
 DEMO
 
-The folder "Demo" contains a sample simulation and the script use to generate it. To run it, it is sufficient to open the folder with MATLAB and run "plot_graph_dynamics_example.m". The run tume is of few second on a standard PC.
+The folder "Demo" contains a sample simulation animation and the script used to generate it. To run it, it is sufficient to open the folder with MATLAB and run "plot_graph_dynamics_example.m". The run tume is of few second on a standard PC.
