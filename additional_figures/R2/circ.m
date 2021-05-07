@@ -1,0 +1,19 @@
+function [A] = circ(v)
+%circ(v) constructs a circulant matrix A from a vector v.
+N=length(v);
+A=zeros(N);
+A(1,:)=v;
+for i=2:N
+    A(i,i:N)=v(1:N-i+1);
+    A(i,1:i-1)=v(N-i+2:N);
+end
+% 
+% 
+% 
+% S=diag(ones(1,N-1),1);
+% S(N,1)=1;
+% for i=2:N
+%     A(i,:)=A(i-1,:)*S;
+% end
+end
+
