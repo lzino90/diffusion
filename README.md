@@ -25,7 +25,7 @@ The folder "data_split_for_trial" contains 20 .xlsx files with the experimental 
 
 The file "data.xlsx" contains the raw experimental data, its pre-processing, and the classification rule to determine explorers and non-explorers
 
-The file "raw_data_figures.zip" contains all the .tex files used to generate the figures in the paper
+The compressed folder "Source Data.zip" contains all the data (.tex files) used to generate the figures in the paper
 
 The file "summary_data.pdf" contains a summary of the experimental data
 
