@@ -35,4 +35,4 @@ The folder "Demo" contains a sample simulation animation and the script used to 
 
 LICENCE
 
-Our code has no custom licence, just requires a standard MATLAB licence to run.
+Our code requires a standard MATLAB licence to run.
