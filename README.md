@@ -1,5 +1,5 @@
 # diffusion
-Code and data used in the paper "Collective patterns of social diffusion are shaped by individual inertia and trend-seeking"
+Code and data used in the paper: Ye, M., Zino, L., Mlakar, Ž. et al. Collective patterns of social diffusion are shaped by individual inertia and trend-seeking. Nat Commun 12, 5698 (2021). https://doi.org/10.1038/s41467-021-25953-1
 
 INSTRUCTIONS AND SYSTEM REQUIREMENTS:
 
